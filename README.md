@@ -43,7 +43,17 @@
 * [Awwwards](http://www.awwwards.com/awards-of-the-day/ "Awwwards")
 * [The FWA](http://www.thefwa.com/ "The FWA")
 
-###### Colors
+###### Typo
+* [Typ.io](http://www.typ.io/ "Typ.io")
+* [Typewolf](http://www.typewolf.com/ "Typewolf")
+
+## Icons
+* [Flat Icons](http://flaticons.net/ "Flat Icons") : PNG icon generator
+* [Icon Melon](http://iconmelon.com/ "Icon Melon") : SVG icon generator
+* [Icon Monstr](http://iconmonstr.com/ "Icon Monstr") : PNG & SVG icon generator
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/ "Font Awesome") : Webfont icons
+
+## Colors
 * [Kuler](https://color.adobe.com/fr/ "Kuler") : Color wheel, color schemes
 * [Pltts](http://pltts.me// "Pltts") : Color schemes
 * [BrandColors](http://brandcolors.net/ "BrandColors")
@@ -51,19 +61,9 @@
 * [Dribbble](https://dribbble.com/ "Dribbble")
 * [Niice](https://niice.co/ "Niice")
 
-###### Typo
-* [Typ.io](http://www.typ.io/ "Typ.io")
-* [Typewolf](http://www.typewolf.com/ "Typewolf")
-
-###### Unicode
+## Unicode
 * [Unicode Table](http://unicode-table.com/en/ "Unicode Table")
 * [Unify](http://unicode.johnholtripley.co.uk/all/ "Unify") : Unicode support on browsers and devices
-
-## Icons
-* [Flat Icons](http://flaticons.net/ "Flat Icons") : PNG icon generator
-* [Icon Melon](http://iconmelon.com/ "Icon Melon") : SVG icon generator
-* [Icon Monstr](http://iconmonstr.com/ "Icon Monstr") : PNG & SVG icon generator
-* [Font Awesome](http://fortawesome.github.io/Font-Awesome/ "Font Awesome") : Webfont icons
 
 ## Images
 * [The Stocks](http://thestocks.im/ "The Stocks") : The best royalty free stock photos in one place
