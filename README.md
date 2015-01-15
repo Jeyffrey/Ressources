@@ -1,5 +1,4 @@
 # Ressources
-Front-end web ressources
 
 #### Inspiration
 ###### Front-end
@@ -11,14 +10,27 @@ Front-end web ressources
 * [Behance](https://www.behance.net/ "Behance")
 * [Dribbble](https://dribbble.com/ "Dribbble")
 * [Niice](https://niice.co/ "Niice")
+* [Art-Spire](http://www.art-spire.com/category/webdesign/ "Art-Spire")
 * [Redsgned](http://redsgned.com/ "Redsgned")
 * [Abduzeedo](http://abduzeedo.com/ "Abduzeedo")
 * [Awwwards](http://www.awwwards.com/awards-of-the-day/ "Awwwards")
 * [The FWA](http://www.thefwa.com/ "The FWA")
 
+###### Colors
+* [Kuler](https://color.adobe.com/fr/ "Kuler") : Color wheel, color schemes
+* [Pltts](http://pltts.me// "Pltts") : Color schemes
+* [BrandColors](http://brandcolors.net/ "BrandColors")
+* [Web Colour Data](http://webcolourdata.com/ "Web Colour Data") : Get colors of a particular website
+* [Dribbble](https://dribbble.com/ "Dribbble")
+* [Niice](https://niice.co/ "Niice")
+
 ###### Typo
 * [Typ.io](http://www.typ.io/ "Typ.io")
 * [Typewolf](http://www.typewolf.com/ "Typewolf")
+
+###### Unicode
+* [Unicode Table](http://unicode-table.com/en/ "Unicode Table")
+* [Unify](http://unicode.johnholtripley.co.uk/all/ "Unify") : Unicode support on browsers and devices
 
 #### Icons
 * [Flat Icons](http://flaticons.net/ "Flat Icons") : PNG icon generator
@@ -30,8 +42,20 @@ Front-end web ressources
 * [The Stocks](http://thestocks.im/ "The Stocks") : The best royalty free stock photos in one place
 * [Freepik](http://www.freepik.com/ "Freepik") : Free Vectors, PSD, Icons and photos
 * [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns") : Patterns gallery
-* [Place it](https://placeit.net/ "Place it") : Visual creations presentations
- 
+* [The Pattern Library](http://thepatternlibrary.com/ "The Pattern Library")
+* [Place it](https://placeit.net/ "Place it") : Visual creations presentation
+
+#### Webfonts
+* [Google Font](https://www.google.com/fonts "Google Font")
+* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts "Adobe Edge Web Fonts")
+* [Font squirrel](http://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web&sort=popular "Font squirrel")
+* [Online font converter](http://onlinefontconverter.com/ "Online font converter") : Font converter
+* [Velvetyne](http://velvetyne.fr/ "Velvetyne") :  Free-of-charge typefaces
+
 #### Freebies
 * [Blugraphic](http://www.blugraphic.com/ "Blugraphic") : Vector & Psd Freebies : Templates, Mock-ups, Websites, Icons
 * [Freebiesbug](http://freebiesbug.com/psd-freebies/ "Freebiesbug") : Latest free PSDs & other resources for designers
+* [Dribbble Freebie](https://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations "Dribbble Freebie") : 430+ FREE storyboard illustrations
+
+#### Audio
+* [Youtube Free Audio Library](https://www.youtube.com/audiolibrary/music "Youtube Free Audio Library")
