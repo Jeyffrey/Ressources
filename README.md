@@ -25,7 +25,7 @@
 * [Cmder](http://bliker.github.io/cmder/ "Cmder") : Portable console emulator for Windows
 
 ###### Others
-* [Lea Verou's projects](http://lea.verou.me/projects/ "Projects Lea Verou")
+* [Lea Verou's projects](http://lea.verou.me/projects/ "Projects Lea Verou") : Prism "syntax highlighter", CSS3 browser test, Contrast ratio, ... 
 
 ## Inspiration
 ###### Front-end
