@@ -1,5 +1,32 @@
 # Ressources
 
+#### Tools
+###### Browser
+* [Livereload](http://livereload.com/ "Livereload")
+* [Can I use](http://caniuse.com/ "Can I use") : Browser support
+* [Outdated browser](http://outdatedbrowser.com/en "Can I use") : Detects outdated browsers and advises users to upgrade to a new version
+* [CSS autoprefixer](https://github.com/postcss/autoprefixer "CSS autoprefixer")
+
+###### Sass
+* [Sass](http://sass-lang.com/ "Sass")
+* [Sass Guidelines](http://sass-guidelin.es/ "Sass Guidelines")
+* [Essential Sass mixins](http://www.developerdrive.com/2014/11/15-essential-sass-mixins/ "Essential Sass mixins")
+
+###### Gulp
+* [Gulp](http://gulpjs.com/ "Gulp")
+* [ssentials/Favorites Packages for Gulp](https://gist.github.com/brunodsgn/f61ef14d99220570cf37 "ssentials/Favorites Packages for Gulp")
+* [Niice](https://niice.co/ "Niice")
+
+###### Sublim Text 3
+* [Sublim Text Préférences](https://github.com/Grafikart/ST3-Preferences "Sublim Text Préférences")
+* [Sublim Text Livereload](https://github.com/Grafikart/ST3-LiveReload "Sublim Text Livereload")
+
+###### Cmd
+* [Cmder](http://bliker.github.io/cmder/ "Cmder") : Portable console emulator for Windows
+
+###### Others
+* [Lea Verou's projects](http://lea.verou.me/projects/ "Projects Lea Verou")
+
 #### Inspiration
 ###### Front-end
 * [Codrops](http://tympanus.net/codrops/ "Codrops")
@@ -49,8 +76,8 @@
 * [Google Font](https://www.google.com/fonts "Google Font")
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts "Adobe Edge Web Fonts")
 * [Font squirrel](http://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web&sort=popular "Font squirrel")
-* [Online font converter](http://onlinefontconverter.com/ "Online font converter") : Font converter
 * [Velvetyne](http://velvetyne.fr/ "Velvetyne") :  Free-of-charge typefaces
+* [Online font converter](http://onlinefontconverter.com/ "Online font converter") : Font converter
 
 #### Freebies
 * [Blugraphic](http://www.blugraphic.com/ "Blugraphic") : Vector & Psd Freebies : Templates, Mock-ups, Websites, Icons
