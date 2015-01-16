@@ -24,6 +24,11 @@
 ###### Cmd
 * [Cmder](http://bliker.github.io/cmder/ "Cmder") : Portable console emulator for Windows
 
+###### Mobile dev
+* [BrowserSync](http://www.browsersync.io/ "BrowserSync") : Syncronize multiple devices to test responsive / app
+* [PhoneGap](http://phonegap.com/ "PhoneGap") : Create apps using HTML, CSS, JS
+* [HammerJS](http://hammerjs.github.io/ "HammerJS") : Touch gesture for webpage
+
 ###### Others
 * [Lea Verou's projects](http://lea.verou.me/projects/ "Projects Lea Verou") : Prism "syntax highlighter", CSS3 browser test, Contrast ratio, ... 
 
