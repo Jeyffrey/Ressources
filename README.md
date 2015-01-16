@@ -14,7 +14,7 @@
 
 ###### Gulp
 * [Gulp](http://gulpjs.com/ "Gulp")
-* [ssentials/Favorites Packages for Gulp](https://gist.github.com/brunodsgn/f61ef14d99220570cf37 "ssentials/Favorites Packages for Gulp")
+* [Essentials/Favorites Packages for Gulp](https://gist.github.com/brunodsgn/f61ef14d99220570cf37 "ssentials/Favorites Packages for Gulp")
 * [Niice](https://niice.co/ "Niice")
 
 ###### Sublim Text 3
