@@ -78,6 +78,7 @@
 * [Place it](https://placeit.net/ "Place it") : Visual creations presentation
 
 ## Webfonts
+* [Brick 'Webfonts that actually look good'](http://brick.im/ "Brick")
 * [Google Font](https://www.google.com/fonts "Google Font")
 * [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts "Adobe Edge Web Fonts")
 * [Font squirrel](http://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Blicense%5D%5B0%5D=web&sort=popular "Font squirrel")
