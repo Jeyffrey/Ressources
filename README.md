@@ -60,6 +60,7 @@
 
 ## Colors
 * [Kuler](https://color.adobe.com/fr/ "Kuler") : Color wheel, color schemes
+* [Material Palette](http://www.materialpalette.com/ "Material Palette") : A palette on two click
 * [Pltts](http://pltts.me// "Pltts") : Color schemes
 * [BrandColors](http://brandcolors.net/ "BrandColors")
 * [Web Colour Data](http://webcolourdata.com/ "Web Colour Data") : Get colors of a particular website
