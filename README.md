@@ -35,6 +35,7 @@
 ## Inspiration
 ###### Front-end
 * [Codrops](http://tympanus.net/codrops/ "Codrops")
+* [Cody House](http://codyhouse.co/ "Cody House")
 * [Call to Idea](http://calltoidea.com/ "Call to Idea")
 * [Codepen](http://codepen.io/ "Codepen")
 
