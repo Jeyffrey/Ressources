@@ -72,6 +72,7 @@
 * [Unify](http://unicode.johnholtripley.co.uk/all/ "Unify") : Unicode support on browsers and devices
 
 ## Images
+* [Compressor.io](https://compressor.io/ "Compressor.io") : Best image compressor online
 * [The Stocks](http://thestocks.im/ "The Stocks") : The best royalty free stock photos in one place
 * [Freepik](http://www.freepik.com/ "Freepik") : Free Vectors, PSD, Icons and photos
 * [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns") : Patterns gallery
